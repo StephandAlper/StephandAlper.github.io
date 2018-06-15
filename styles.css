@@ -66,6 +66,10 @@ button {
   padding: 50px;
 }
 
+#gallery #conclusion p{
+	font-size: 30px;
+}
+
 .drops {
   display: none;
 }
@@ -76,5 +80,8 @@ button {
 	position: fixed;
 }
 
+img {
+	image-orientation: from-image;
+}
 
 
